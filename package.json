@@ -1,6 +1,6 @@
 {
-  "name": "spam-bot",
-  "description": "Spam-bot",
+  "name": "kingserver",
+  "description": "kingserver",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
